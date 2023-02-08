@@ -40,3 +40,4 @@ Follow the below commands -
 - Execute `npm run androidBrowser` to run android chrome browser
 
 - Execute `npm run lint` to run eslint
+- test
